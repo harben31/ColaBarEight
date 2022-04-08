@@ -20,5 +20,5 @@ archive has lists
 
 lists have outline of and then finished drinks
 
-drinks have measurements and ingredients and instructions
+drinks have measurements (in oz w/ one decimal point, dash, barspoon, spritz, sprig) for ingredients (have option for notes, like subrecipes), style (assigned by lead user) and instructions
 
