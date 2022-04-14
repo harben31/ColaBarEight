@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const drinkSchema = new Schema({
+    //creator of drink. From Assignment? 
     drinkName: {
         type: String,
         trim: true
